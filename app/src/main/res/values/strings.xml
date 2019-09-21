@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FlipMath</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="title_multiply">Multiply</string>
+    <string name="title_challenge">Challenge Mode</string>
+    <string name="divide">Divide</string>
+    <string name="subtract">Subtract</string>
+    <string name="allops">Single Operation</string>
+    <string name="awns">Please Enter your result</string>
+    <string name="mult">X</string>
+    <string name="add">+</string>
+    <string name="normLives">10</string>
+    <string name="allscores">Highest Score across all operations</string>
+    <string name="div">/</string>
+    <string name="minus">-</string>
+    <string name="highscore">High Score</string>
+    <string name="Lives">Lives:</string>
+    <string name="score">Score:</string>
+    <string name="correct">Correct:</string>
+    <string name="start">Start</string>
+    <string name="play">Play</string>
+    <string name="round">Round:</string>
+    <string name="Addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="attempt">Attempts:</string>
+    <string name="wrong">Incorrect:</string>
+    <string name="newround">New Round</string>
+    <string name="gameover">Game Over!</string>
+    <string name="maindescrpt">Quick and fun math problems to improve your skills</string>
+    <string name="defaultDifficulty">100</string>
+    <string name="percentage">Percentage:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
