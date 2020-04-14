@@ -4,9 +4,9 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId 'com.designara.harrisonaffel.flipmath'
-        minSdkVersion 15
-        targetSdkVersion 27
-        versionCode 6
+        minSdkVersion 26
+        targetSdkVersion 28
+        versionCode 7
 
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
